@@ -1,0 +1,981 @@
+Anio mes,Codigo IATA,Descripcion,Estado,Pasajeros nacionales,Pasajeros internacionales
+201501,CEN,Ciudad Obregon,Sonora,17149,721
+201501,CLQ,Colima,Colima,8486,124
+201501,CME,Ciudad del Carmen,Campeche,56079,3126
+201501,CPE,Campeche,Campeche,13264,215
+201501,CTM,Chetumal,Quintana Roo,13153,0
+201501,CVM,Ciudad Victoria,Tamaulipas,4695,139
+201501,GYM,Guaymas,Sonora,1315,386
+201501,LTO,Loreto,Baja California  Sur,1050,2684
+201501,MAM,Matamoros,Tamaulipas,6684,61
+201501,NLD,Nuevo Laredo,Tamaulipas,5609,10
+201501,NOG,Nogales,Sonora,257,37
+201501,PAZ,Poza Rica,Veracruz,4490,0
+201501,PBC,Puebla,Puebla,20794,4723
+201501,PXM,Puerto Escondido,Oaxaca,16754,580
+201501,TCN,Tehuacan,Puebla,153,0
+201501,TPQ,Tepic,Nayarit,8116,0
+201501,TSL,Tamuin,San Luis Potosi,108,0
+201501,UPN,Uruapan,Michoacan,8227,1208
+201502,CEN,Ciudad Obregon,Sonora,15430,700
+201502,CLQ,Colima,Colima,9207,67
+201502,CME,Ciudad del Carmen,Campeche,48255,2632
+201502,CPE,Campeche,Campeche,12797,206
+201502,CTM,Chetumal,Quintana Roo,11110,6
+201502,CVM,Ciudad Victoria,Tamaulipas,4902,163
+201502,GYM,Guaymas,Sonora,1000,336
+201502,LTO,Loreto,Baja California  Sur,651,4511
+201502,MAM,Matamoros,Tamaulipas,6443,55
+201502,NLD,Nuevo Laredo,Tamaulipas,5541,55
+201502,NOG,Nogales,Sonora,204,38
+201502,PAZ,Poza Rica,Veracruz,5368,0
+201502,PBC,Puebla,Puebla,16316,3539
+201502,PXM,Puerto Escondido,Oaxaca,11146,431
+201502,TCN,Tehuacan,Puebla,250,0
+201502,TPQ,Tepic,Nayarit,7062,0
+201502,TSL,Tamuin,San Luis Potosi,205,0
+201502,UPN,Uruapan,Michoacan,5581,920
+201503,CEN,Ciudad Obregon,Sonora,20272,632
+201503,CLQ,Colima,Colima,8906,85
+201503,CME,Ciudad del Carmen,Campeche,50333,2678
+201503,CPE,Campeche,Campeche,15863,304
+201503,CTM,Chetumal,Quintana Roo,13651,2
+201503,CVM,Ciudad Victoria,Tamaulipas,8116,185
+201503,GYM,Guaymas,Sonora,1170,556
+201503,LTO,Loreto,Baja California  Sur,793,5418
+201503,MAM,Matamoros,Tamaulipas,7219,89
+201503,NLD,Nuevo Laredo,Tamaulipas,6116,16
+201503,NOG,Nogales,Sonora,295,54
+201503,PAZ,Poza Rica,Veracruz,5756,0
+201503,PBC,Puebla,Puebla,21621,4421
+201503,PXM,Puerto Escondido,Oaxaca,15527,357
+201503,TCN,Tehuacan,Puebla,296,0
+201503,TPQ,Tepic,Nayarit,8953,0
+201503,TSL,Tamuin,San Luis Potosi,172,0
+201503,UPN,Uruapan,Michoacan,6588,1037
+201504,CEN,Ciudad Obregon,Sonora,19649,539
+201504,CLQ,Colima,Colima,8698,70
+201504,CME,Ciudad del Carmen,Campeche,47173,2650
+201504,CPE,Campeche,Campeche,13750,264
+201504,CTM,Chetumal,Quintana Roo,14271,22
+201504,CVM,Ciudad Victoria,Tamaulipas,5714,111
+201504,GYM,Guaymas,Sonora,1322,303
+201504,LTO,Loreto,Baja California  Sur,1708,5376
+201504,MAM,Matamoros,Tamaulipas,7838,85
+201504,NLD,Nuevo Laredo,Tamaulipas,5221,35
+201504,NOG,Nogales,Sonora,270,39
+201504,PAZ,Poza Rica,Veracruz,5410,0
+201504,PBC,Puebla,Puebla,21948,4347
+201504,PXM,Puerto Escondido,Oaxaca,15547,348
+201504,TCN,Tehuacan,Puebla,249,0
+201504,TPQ,Tepic,Nayarit,8664,0
+201504,TSL,Tamuin,San Luis Potosi,89,0
+201504,UPN,Uruapan,Michoacan,6993,1348
+201505,CEN,Ciudad Obregon,Sonora,19878,582
+201505,CLQ,Colima,Colima,8827,80
+201505,CME,Ciudad del Carmen,Campeche,49967,3287
+201505,CPE,Campeche,Campeche,14788,258
+201505,CTM,Chetumal,Quintana Roo,13762,9
+201505,CVM,Ciudad Victoria,Tamaulipas,5511,173
+201505,GYM,Guaymas,Sonora,1199,457
+201505,LTO,Loreto,Baja California  Sur,884,4744
+201505,MAM,Matamoros,Tamaulipas,8056,94
+201505,NLD,Nuevo Laredo,Tamaulipas,5508,7
+201505,NOG,Nogales,Sonora,342,23
+201505,PAZ,Poza Rica,Veracruz,5130,0
+201505,PBC,Puebla,Puebla,22044,4145
+201505,PXM,Puerto Escondido,Oaxaca,11401,356
+201505,TCN,Tehuacan,Puebla,337,0
+201505,TPQ,Tepic,Nayarit,9437,0
+201505,TSL,Tamuin,San Luis Potosi,158,0
+201505,UPN,Uruapan,Michoacan,7589,1137
+201506,CEN,Ciudad Obregon,Sonora,18854,590
+201506,CLQ,Colima,Colima,9082,56
+201506,CME,Ciudad del Carmen,Campeche,48395,2761
+201506,CPE,Campeche,Campeche,13571,180
+201506,CTM,Chetumal,Quintana Roo,14339,2
+201506,CVM,Ciudad Victoria,Tamaulipas,8113,115
+201506,GYM,Guaymas,Sonora,1063,314
+201506,LTO,Loreto,Baja California  Sur,890,3787
+201506,MAM,Matamoros,Tamaulipas,7819,56
+201506,NLD,Nuevo Laredo,Tamaulipas,5481,8
+201506,NOG,Nogales,Sonora,268,12
+201506,PAZ,Poza Rica,Veracruz,5450,0
+201506,PBC,Puebla,Puebla,22209,4628
+201506,PXM,Puerto Escondido,Oaxaca,11025,178
+201506,TCN,Tehuacan,Puebla,211,0
+201506,TPQ,Tepic,Nayarit,9027,0
+201506,TSL,Tamuin,San Luis Potosi,89,0
+201506,UPN,Uruapan,Michoacan,8568,1193
+201507,CEN,Ciudad Obregon,Sonora,21570,487
+201507,CLQ,Colima,Colima,10033,106
+201507,CME,Ciudad del Carmen,Campeche,50061,2800
+201507,CPE,Campeche,Campeche,16645,237
+201507,CTM,Chetumal,Quintana Roo,15958,10
+201507,CVM,Ciudad Victoria,Tamaulipas,5404,108
+201507,GYM,Guaymas,Sonora,1197,186
+201507,LTO,Loreto,Baja California  Sur,1135,3247
+201507,MAM,Matamoros,Tamaulipas,8553,38
+201507,NLD,Nuevo Laredo,Tamaulipas,7499,29
+201507,NOG,Nogales,Sonora,192,29
+201507,PAZ,Poza Rica,Veracruz,5501,0
+201507,PBC,Puebla,Puebla,26609,5315
+201507,PXM,Puerto Escondido,Oaxaca,18641,236
+201507,TCN,Tehuacan,Puebla,239,0
+201507,TPQ,Tepic,Nayarit,10253,0
+201507,TSL,Tamuin,San Luis Potosi,162,0
+201507,UPN,Uruapan,Michoacan,9260,1490
+201508,CEN,Ciudad Obregon,Sonora,20323,456
+201508,CLQ,Colima,Colima,9536,82
+201508,CME,Ciudad del Carmen,Campeche,44891,2573
+201508,CPE,Campeche,Campeche,15269,310
+201508,CTM,Chetumal,Quintana Roo,16071,30
+201508,CVM,Ciudad Victoria,Tamaulipas,5372,134
+201508,GYM,Guaymas,Sonora,905,110
+201508,LTO,Loreto,Baja California  Sur,952,2908
+201508,MAM,Matamoros,Tamaulipas,8696,56
+201508,NLD,Nuevo Laredo,Tamaulipas,5857,54
+201508,NOG,Nogales,Sonora,131,7
+201508,PAZ,Poza Rica,Veracruz,5021,0
+201508,PBC,Puebla,Puebla,24785,7042
+201508,PXM,Puerto Escondido,Oaxaca,18267,209
+201508,TCN,Tehuacan,Puebla,164,0
+201508,TPQ,Tepic,Nayarit,9767,0
+201508,TSL,Tamuin,San Luis Potosi,187,0
+201508,UPN,Uruapan,Michoacan,9730,1197
+201509,CEN,Ciudad Obregon,Sonora,17764,473
+201509,CLQ,Colima,Colima,7267,60
+201509,CME,Ciudad del Carmen,Campeche,44283,2227
+201509,CPE,Campeche,Campeche,14174,240
+201509,CTM,Chetumal,Quintana Roo,14628,12
+201509,CVM,Ciudad Victoria,Tamaulipas,6408,82
+201509,GYM,Guaymas,Sonora,772,280
+201509,LTO,Loreto,Baja California  Sur,887,1485
+201509,MAM,Matamoros,Tamaulipas,8418,96
+201509,NLD,Nuevo Laredo,Tamaulipas,6684,13
+201509,NOG,Nogales,Sonora,98,7
+201509,PAZ,Poza Rica,Veracruz,4276,0
+201509,PBC,Puebla,Puebla,20393,6104
+201509,PXM,Puerto Escondido,Oaxaca,12717,154
+201509,TCN,Tehuacan,Puebla,174,0
+201509,TPQ,Tepic,Nayarit,7739,0
+201509,TSL,Tamuin,San Luis Potosi,139,0
+201509,UPN,Uruapan,Michoacan,6635,985
+201510,CEN,Ciudad Obregon,Sonora,20647,527
+201510,CLQ,Colima,Colima,8417,59
+201510,CME,Ciudad del Carmen,Campeche,48342,2534
+201510,CPE,Campeche,Campeche,16618,283
+201510,CTM,Chetumal,Quintana Roo,15171,7
+201510,CVM,Ciudad Victoria,Tamaulipas,7827,120
+201510,GYM,Guaymas,Sonora,891,427
+201510,LTO,Loreto,Baja California  Sur,1245,2996
+201510,MAM,Matamoros,Tamaulipas,8955,8
+201510,NLD,Nuevo Laredo,Tamaulipas,7174,11
+201510,NOG,Nogales,Sonora,156,22
+201510,PAZ,Poza Rica,Veracruz,4666,0
+201510,PBC,Puebla,Puebla,22396,6278
+201510,PXM,Puerto Escondido,Oaxaca,13491,175
+201510,TCN,Tehuacan,Puebla,252,0
+201510,TPQ,Tepic,Nayarit,8466,0
+201510,TSL,Tamuin,San Luis Potosi,63,0
+201510,UPN,Uruapan,Michoacan,7475,1352
+201511,CEN,Ciudad Obregon,Sonora,22540,630
+201511,CLQ,Colima,Colima,11902,72
+201511,CME,Ciudad del Carmen,Campeche,46957,2300
+201511,CPE,Campeche,Campeche,15722,310
+201511,CTM,Chetumal,Quintana Roo,18315,8
+201511,CVM,Ciudad Victoria,Tamaulipas,5391,165
+201511,GYM,Guaymas,Sonora,871,498
+201511,LTO,Loreto,Baja California  Sur,1009,4098
+201511,MAM,Matamoros,Tamaulipas,9845,62
+201511,NLD,Nuevo Laredo,Tamaulipas,5748,39
+201511,NOG,Nogales,Sonora,172,41
+201511,PAZ,Poza Rica,Veracruz,4928,0
+201511,PBC,Puebla,Puebla,22624,6364
+201511,PXM,Puerto Escondido,Oaxaca,15320,306
+201511,TCN,Tehuacan,Puebla,263,0
+201511,TPQ,Tepic,Nayarit,11416,0
+201511,TSL,Tamuin,San Luis Potosi,91,0
+201511,UPN,Uruapan,Michoacan,8619,1120
+201512,CEN,Ciudad Obregon,Sonora,24333,746
+201512,CLQ,Colima,Colima,12295,66
+201512,CME,Ciudad del Carmen,Campeche,56418,2432
+201512,CPE,Campeche,Campeche,16330,234
+201512,CTM,Chetumal,Quintana Roo,18830,10
+201512,CVM,Ciudad Victoria,Tamaulipas,6038,170
+201512,GYM,Guaymas,Sonora,1052,285
+201512,LTO,Loreto,Baja California  Sur,1398,4051
+201512,MAM,Matamoros,Tamaulipas,8421,7
+201512,NLD,Nuevo Laredo,Tamaulipas,6250,13
+201512,NOG,Nogales,Sonora,237,46
+201512,PAZ,Poza Rica,Veracruz,4579,0
+201512,PBC,Puebla,Puebla,23016,6150
+201512,PXM,Puerto Escondido,Oaxaca,21871,294
+201512,TCN,Tehuacan,Puebla,224,0
+201512,TPQ,Tepic,Nayarit,14143,0
+201512,TSL,Tamuin,San Luis Potosi,135,0
+201512,UPN,Uruapan,Michoacan,10370,1445
+201601,CEN,Ciudad Obregon,Sonora,19791,867
+201601,CLQ,Colima,Colima,11731,82
+201601,CME,Ciudad del Carmen,Campeche,48310,2454
+201601,CPE,Campeche,Campeche,14207,291
+201601,CTM,Chetumal,Quintana Roo,16656,17
+201601,CVM,Ciudad Victoria,Tamaulipas,4846,76
+201601,GYM,Guaymas,Sonora,639,328
+201601,LTO,Loreto,Baja California  Sur,1076,5093
+201601,MAM,Matamoros,Tamaulipas,8045,28
+201601,NLD,Nuevo Laredo,Tamaulipas,5693,14
+201601,NOG,Nogales,Sonora,200,32
+201601,PAZ,Poza Rica,Veracruz,3560,0
+201601,PBC,Puebla,Puebla,24019,5486
+201601,PXM,Puerto Escondido,Oaxaca,19832,527
+201601,TCN,Tehuacan,Puebla,301,0
+201601,TPQ,Tepic,Nayarit,12106,0
+201601,TSL,Tamuin,San Luis Potosi,134,0
+201601,UPN,Uruapan,Michoacan,9590,1241
+201602,CEN,Ciudad Obregon,Sonora,18489,356
+201602,CLQ,Colima,Colima,10027,63
+201602,CME,Ciudad del Carmen,Campeche,43446,1677
+201602,CPE,Campeche,Campeche,12995,228
+201602,CTM,Chetumal,Quintana Roo,14283,30
+201602,CVM,Ciudad Victoria,Tamaulipas,5471,124
+201602,GYM,Guaymas,Sonora,639,325
+201602,LTO,Loreto,Baja California  Sur,1088,6335
+201602,MAM,Matamoros,Tamaulipas,8564,11
+201602,NLD,Nuevo Laredo,Tamaulipas,5754,1167
+201602,NOG,Nogales,Sonora,235,32
+201602,PAZ,Poza Rica,Veracruz,4033,0
+201602,PBC,Puebla,Puebla,21171,4807
+201602,PXM,Puerto Escondido,Oaxaca,14008,473
+201602,TCN,Tehuacan,Puebla,238,0
+201602,TPQ,Tepic,Nayarit,11180,0
+201602,TSL,Tamuin,San Luis Potosi,155,0
+201602,UPN,Uruapan,Michoacan,8248,1089
+201603,CEN,Ciudad Obregon,Sonora,21279,703
+201603,CLQ,Colima,Colima,11401,59
+201603,CME,Ciudad del Carmen,Campeche,42927,1433
+201603,CPE,Campeche,Campeche,14842,261
+201603,CTM,Chetumal,Quintana Roo,19130,6
+201603,CVM,Ciudad Victoria,Tamaulipas,7416,151
+201603,GYM,Guaymas,Sonora,858,400
+201603,LTO,Loreto,Baja California  Sur,2372,7054
+201603,MAM,Matamoros,Tamaulipas,9341,0
+201603,NLD,Nuevo Laredo,Tamaulipas,6430,2232
+201603,NOG,Nogales,Sonora,185,44
+201603,PAZ,Poza Rica,Veracruz,3576,0
+201603,PBC,Puebla,Puebla,24290,4845
+201603,PXM,Puerto Escondido,Oaxaca,20366,405
+201603,TCN,Tehuacan,Puebla,319,0
+201603,TPQ,Tepic,Nayarit,13518,0
+201603,TSL,Tamuin,San Luis Potosi,152,0
+201603,UPN,Uruapan,Michoacan,9467,1382
+201604,CEN,Ciudad Obregon,Sonora,19324,556
+201604,CLQ,Colima,Colima,10808,58
+201604,CME,Ciudad del Carmen,Campeche,37795,1475
+201604,CPE,Campeche,Campeche,14098,297
+201604,CTM,Chetumal,Quintana Roo,15869,4
+201604,CVM,Ciudad Victoria,Tamaulipas,5888,172
+201604,GYM,Guaymas,Sonora,651,234
+201604,LTO,Loreto,Baja California  Sur,1447,6029
+201604,MAM,Matamoros,Tamaulipas,8876,9
+201604,NLD,Nuevo Laredo,Tamaulipas,6412,71
+201604,NOG,Nogales,Sonora,168,28
+201604,PAZ,Poza Rica,Veracruz,3558,0
+201604,PBC,Puebla,Puebla,23073,4193
+201604,PXM,Puerto Escondido,Oaxaca,12549,216
+201604,TCN,Tehuacan,Puebla,354,0
+201604,TPQ,Tepic,Nayarit,12023,0
+201604,TSL,Tamuin,San Luis Potosi,186,0
+201604,UPN,Uruapan,Michoacan,8565,1130
+201605,CEN,Ciudad Obregon,Sonora,22053,480
+201605,CLQ,Colima,Colima,11363,53
+201605,CME,Ciudad del Carmen,Campeche,37848,1627
+201605,CPE,Campeche,Campeche,15039,329
+201605,CTM,Chetumal,Quintana Roo,17483,6
+201605,CVM,Ciudad Victoria,Tamaulipas,5854,111
+201605,GYM,Guaymas,Sonora,775,368
+201605,LTO,Loreto,Baja California  Sur,1602,4055
+201605,MAM,Matamoros,Tamaulipas,8145,8
+201605,NLD,Nuevo Laredo,Tamaulipas,6827,37
+201605,NOG,Nogales,Sonora,251,18
+201605,PAZ,Poza Rica,Veracruz,2906,0
+201605,PBC,Puebla,Puebla,25151,4667
+201605,PXM,Puerto Escondido,Oaxaca,14485,335
+201605,TCN,Tehuacan,Puebla,279,0
+201605,TPQ,Tepic,Nayarit,13217,0
+201605,TSL,Tamuin,San Luis Potosi,90,0
+201605,UPN,Uruapan,Michoacan,8435,1147
+201606,CEN,Ciudad Obregon,Sonora,19718,566
+201606,CLQ,Colima,Colima,12102,45
+201606,CME,Ciudad del Carmen,Campeche,36723,1576
+201606,CPE,Campeche,Campeche,13025,232
+201606,CTM,Chetumal,Quintana Roo,17769,10
+201606,CVM,Ciudad Victoria,Tamaulipas,7576,122
+201606,GYM,Guaymas,Sonora,1055,314
+201606,LTO,Loreto,Baja California  Sur,1444,3767
+201606,MAM,Matamoros,Tamaulipas,8143,13
+201606,NLD,Nuevo Laredo,Tamaulipas,6411,24
+201606,NOG,Nogales,Sonora,200,13
+201606,PAZ,Poza Rica,Veracruz,2854,0
+201606,PBC,Puebla,Puebla,24711,4704
+201606,PXM,Puerto Escondido,Oaxaca,15858,220
+201606,TCN,Tehuacan,Puebla,279,0
+201606,TPQ,Tepic,Nayarit,12104,0
+201606,TSL,Tamuin,San Luis Potosi,319,0
+201606,UPN,Uruapan,Michoacan,8553,1541
+201607,CEN,Ciudad Obregon,Sonora,22638,485
+201607,CLQ,Colima,Colima,12560,67
+201607,CME,Ciudad del Carmen,Campeche,36671,1390
+201607,CPE,Campeche,Campeche,14753,242
+201607,CTM,Chetumal,Quintana Roo,19772,30
+201607,CVM,Ciudad Victoria,Tamaulipas,4045,95
+201607,GYM,Guaymas,Sonora,789,326
+201607,LTO,Loreto,Baja California  Sur,1954,3577
+201607,MAM,Matamoros,Tamaulipas,8546,10
+201607,NLD,Nuevo Laredo,Tamaulipas,7661,28
+201607,NOG,Nogales,Sonora,155,25
+201607,PAZ,Poza Rica,Veracruz,3042,0
+201607,PBC,Puebla,Puebla,29615,5162
+201607,PXM,Puerto Escondido,Oaxaca,25698,245
+201607,TCN,Tehuacan,Puebla,367,0
+201607,TPQ,Tepic,Nayarit,12287,0
+201607,TSL,Tamuin,San Luis Potosi,192,0
+201607,UPN,Uruapan,Michoacan,12168,1247
+201608,CEN,Ciudad Obregon,Sonora,21353,548
+201608,CLQ,Colima,Colima,12339,41
+201608,CME,Ciudad del Carmen,Campeche,35344,1204
+201608,CPE,Campeche,Campeche,16075,152
+201608,CTM,Chetumal,Quintana Roo,18186,31
+201608,CVM,Ciudad Victoria,Tamaulipas,4421,150
+201608,GYM,Guaymas,Sonora,762,101
+201608,LTO,Loreto,Baja California  Sur,1707,1464
+201608,MAM,Matamoros,Tamaulipas,8881,8
+201608,NLD,Nuevo Laredo,Tamaulipas,7185,16
+201608,NOG,Nogales,Sonora,133,7
+201608,PAZ,Poza Rica,Veracruz,3031,0
+201608,PBC,Puebla,Puebla,30423,4866
+201608,PXM,Puerto Escondido,Oaxaca,23026,241
+201608,TCN,Tehuacan,Puebla,256,0
+201608,TPQ,Tepic,Nayarit,14514,0
+201608,TSL,Tamuin,San Luis Potosi,118,0
+201608,UPN,Uruapan,Michoacan,10472,1214
+201609,CEN,Ciudad Obregon,Sonora,18314,362
+201609,CLQ,Colima,Colima,10718,49
+201609,CME,Ciudad del Carmen,Campeche,30146,1124
+201609,CPE,Campeche,Campeche,15149,209
+201609,CTM,Chetumal,Quintana Roo,16964,13
+201609,CVM,Ciudad Victoria,Tamaulipas,7759,182
+201609,GYM,Guaymas,Sonora,588,197
+201609,LTO,Loreto,Baja California  Sur,1351,1316
+201609,MAM,Matamoros,Tamaulipas,6912,16
+201609,NLD,Nuevo Laredo,Tamaulipas,6499,40
+201609,NOG,Nogales,Sonora,179,15
+201609,PAZ,Poza Rica,Veracruz,2577,0
+201609,PBC,Puebla,Puebla,28432,3885
+201609,PXM,Puerto Escondido,Oaxaca,16789,160
+201609,TCN,Tehuacan,Puebla,256,0
+201609,TPQ,Tepic,Nayarit,11045,0
+201609,TSL,Tamuin,San Luis Potosi,149,0
+201609,UPN,Uruapan,Michoacan,8253,1270
+201610,CEN,Ciudad Obregon,Sonora,22530,579
+201610,CLQ,Colima,Colima,11344,37
+201610,CME,Ciudad del Carmen,Campeche,31313,1451
+201610,CPE,Campeche,Campeche,16110,268
+201610,CTM,Chetumal,Quintana Roo,16440,3
+201610,CVM,Ciudad Victoria,Tamaulipas,5738,229
+201610,GYM,Guaymas,Sonora,809,402
+201610,LTO,Loreto,Baja California  Sur,1500,4449
+201610,MAM,Matamoros,Tamaulipas,6960,2
+201610,NLD,Nuevo Laredo,Tamaulipas,6810,27
+201610,NOG,Nogales,Sonora,167,45
+201610,PAZ,Poza Rica,Veracruz,2923,0
+201610,PBC,Puebla,Puebla,31255,4981
+201610,PXM,Puerto Escondido,Oaxaca,16551,176
+201610,TCN,Tehuacan,Puebla,286,0
+201610,TPQ,Tepic,Nayarit,11212,0
+201610,TSL,Tamuin,San Luis Potosi,170,0
+201610,UPN,Uruapan,Michoacan,8885,1093
+201611,CEN,Ciudad Obregon,Sonora,22155,376
+201611,CLQ,Colima,Colima,12242,35
+201611,CME,Ciudad del Carmen,Campeche,31026,884
+201611,CPE,Campeche,Campeche,16747,194
+201611,CTM,Chetumal,Quintana Roo,17470,5
+201611,CVM,Ciudad Victoria,Tamaulipas,5831,126
+201611,GYM,Guaymas,Sonora,721,248
+201611,LTO,Loreto,Baja California  Sur,1446,5653
+201611,MAM,Matamoros,Tamaulipas,7825,5
+201611,NLD,Nuevo Laredo,Tamaulipas,7194,69
+201611,NOG,Nogales,Sonora,190,20
+201611,PAZ,Poza Rica,Veracruz,2752,0
+201611,PBC,Puebla,Puebla,30806,4612
+201611,PXM,Puerto Escondido,Oaxaca,17117,261
+201611,TCN,Tehuacan,Puebla,295,0
+201611,TPQ,Tepic,Nayarit,12149,0
+201611,TSL,Tamuin,San Luis Potosi,163,0
+201611,UPN,Uruapan,Michoacan,8802,1074
+201612,CEN,Ciudad Obregon,Sonora,22428,615
+201612,CLQ,Colima,Colima,11699,39
+201612,CME,Ciudad del Carmen,Campeche,30465,1732
+201612,CPE,Campeche,Campeche,17509,196
+201612,CTM,Chetumal,Quintana Roo,19793,2
+201612,CVM,Ciudad Victoria,Tamaulipas,5648,229
+201612,GYM,Guaymas,Sonora,852,237
+201612,LTO,Loreto,Baja California  Sur,1637,4996
+201612,MAM,Matamoros,Tamaulipas,7645,4
+201612,NLD,Nuevo Laredo,Tamaulipas,7437,30
+201612,NOG,Nogales,Sonora,168,33
+201612,PAZ,Poza Rica,Veracruz,2801,0
+201612,PBC,Puebla,Puebla,32889,5322
+201612,PXM,Puerto Escondido,Oaxaca,26209,170
+201612,TCN,Tehuacan,Puebla,257,0
+201612,TPQ,Tepic,Nayarit,13012,0
+201612,TSL,Tamuin,San Luis Potosi,133,0
+201612,UPN,Uruapan,Michoacan,11772,2035
+201701,CEN,Ciudad Obregon,Sonora,20486,1367
+201701,CLQ,Colima,Colima,10494,68
+201701,CME,Ciudad del Carmen,Campeche,27191,838
+201701,CPE,Campeche,Campeche,14054,193
+201701,CTM,Chetumal,Quintana Roo,19116,45
+201701,CVM,Ciudad Victoria,Tamaulipas,4902,124
+201701,GYM,Guaymas,Sonora,933,163
+201701,LTO,Loreto,Baja California  Sur,1551,5044
+201701,MAM,Matamoros,Tamaulipas,6281,5
+201701,NLD,Nuevo Laredo,Tamaulipas,6932,38
+201701,NOG,Nogales,Sonora,183,35
+201701,PAZ,Poza Rica,Veracruz,3028,0
+201701,PBC,Puebla,Puebla,31385,5046
+201701,PXM,Puerto Escondido,Oaxaca,24819,399
+201701,TCN,Tehuacan,Puebla,360,0
+201701,TPQ,Tepic,Nayarit,12266,0
+201701,TSL,Tamuin,San Luis Potosi,137,0
+201701,UPN,Uruapan,Michoacan,10679,1540
+201702,CEN,Ciudad Obregon,Sonora,21198,958
+201702,CLQ,Colima,Colima,10462,32
+201702,CME,Ciudad del Carmen,Campeche,26566,812
+201702,CPE,Campeche,Campeche,13987,150
+201702,CTM,Chetumal,Quintana Roo,15945,43
+201702,CVM,Ciudad Victoria,Tamaulipas,4402,127
+201702,GYM,Guaymas,Sonora,865,228
+201702,LTO,Loreto,Baja California  Sur,1613,7839
+201702,MAM,Matamoros,Tamaulipas,6105,7
+201702,NLD,Nuevo Laredo,Tamaulipas,5723,15
+201702,NOG,Nogales,Sonora,150,14
+201702,PAZ,Poza Rica,Veracruz,2624,0
+201702,PBC,Puebla,Puebla,28063,3804
+201702,PXM,Puerto Escondido,Oaxaca,17542,374
+201702,TCN,Tehuacan,Puebla,353,0
+201702,TPQ,Tepic,Nayarit,11513,0
+201702,TSL,Tamuin,San Luis Potosi,165,0
+201702,UPN,Uruapan,Michoacan,9608,931
+201703,CEN,Ciudad Obregon,Sonora,21992,845
+201703,CLQ,Colima,Colima,10657,38
+201703,CME,Ciudad del Carmen,Campeche,31964,907
+201703,CPE,Campeche,Campeche,17558,318
+201703,CTM,Chetumal,Quintana Roo,18221,70
+201703,CVM,Ciudad Victoria,Tamaulipas,6735,124
+201703,GYM,Guaymas,Sonora,921,360
+201703,LTO,Loreto,Baja California  Sur,1701,9627
+201703,MAM,Matamoros,Tamaulipas,7540,9
+201703,NLD,Nuevo Laredo,Tamaulipas,7035,6
+201703,NOG,Nogales,Sonora,166,39
+201703,PAZ,Poza Rica,Veracruz,3136,0
+201703,PBC,Puebla,Puebla,32916,4323
+201703,PXM,Puerto Escondido,Oaxaca,19564,406
+201703,TCN,Tehuacan,Puebla,281,0
+201703,TPQ,Tepic,Nayarit,13444,0
+201703,TSL,Tamuin,San Luis Potosi,176,0
+201703,UPN,Uruapan,Michoacan,9522,1255
+201704,CEN,Ciudad Obregon,Sonora,23001,626
+201704,CLQ,Colima,Colima,9280,0
+201704,CME,Ciudad del Carmen,Campeche,29227,836
+201704,CPE,Campeche,Campeche,17525,323
+201704,CTM,Chetumal,Quintana Roo,22779,36
+201704,CVM,Ciudad Victoria,Tamaulipas,3973,148
+201704,GYM,Guaymas,Sonora,1004,233
+201704,IZT,Ixtepec,Oaxaca,158,0
+201704,LTO,Loreto,Baja California  Sur,2704,8126
+201704,MAM,Matamoros,Tamaulipas,7249,6
+201704,NLD,Nuevo Laredo,Tamaulipas,6125,22
+201704,NOG,Nogales,Sonora,106,40
+201704,PAZ,Poza Rica,Veracruz,2484,0
+201704,PBC,Puebla,Puebla,37168,4522
+201704,PXM,Puerto Escondido,Oaxaca,24551,339
+201704,TCN,Tehuacan,Puebla,325,0
+201704,TPQ,Tepic,Nayarit,12015,0
+201704,TSL,Tamuin,San Luis Potosi,209,0
+201704,UPN,Uruapan,Michoacan,12669,908
+201705,CEN,Ciudad Obregon,Sonora,24139,760
+201705,CLQ,Colima,Colima,11943,0
+201705,CME,Ciudad del Carmen,Campeche,30413,344
+201705,CPE,Campeche,Campeche,13271,179
+201705,CTM,Chetumal,Quintana Roo,23854,21
+201705,CVM,Ciudad Victoria,Tamaulipas,4903,114
+201705,GYM,Guaymas,Sonora,967,318
+201705,IZT,Ixtepec,Oaxaca,1271,0
+201705,LTO,Loreto,Baja California  Sur,1476,3454
+201705,MAM,Matamoros,Tamaulipas,7783,3
+201705,NLD,Nuevo Laredo,Tamaulipas,6253,37
+201705,NOG,Nogales,Sonora,108,29
+201705,PAZ,Poza Rica,Veracruz,2709,0
+201705,PBC,Puebla,Puebla,37095,4284
+201705,PXM,Puerto Escondido,Oaxaca,19231,273
+201705,TCN,Tehuacan,Puebla,600,0
+201705,TPQ,Tepic,Nayarit,13388,0
+201705,TSL,Tamuin,San Luis Potosi,117,0
+201705,UPN,Uruapan,Michoacan,12169,885
+201706,CEN,Ciudad Obregon,Sonora,23171,612
+201706,CLQ,Colima,Colima,10274,0
+201706,CME,Ciudad del Carmen,Campeche,30455,535
+201706,CPE,Campeche,Campeche,15246,160
+201706,CTM,Chetumal,Quintana Roo,24285,17
+201706,CVM,Ciudad Victoria,Tamaulipas,6319,100
+201706,GYM,Guaymas,Sonora,956,382
+201706,IZT,Ixtepec,Oaxaca,1209,0
+201706,LTO,Loreto,Baja California  Sur,1664,4628
+201706,MAM,Matamoros,Tamaulipas,7371,2
+201706,NLD,Nuevo Laredo,Tamaulipas,6524,17
+201706,NOG,Nogales,Sonora,138,7
+201706,PAZ,Poza Rica,Veracruz,2436,0
+201706,PBC,Puebla,Puebla,37226,4639
+201706,PXM,Puerto Escondido,Oaxaca,19308,276
+201706,TCN,Tehuacan,Puebla,396,0
+201706,TPQ,Tepic,Nayarit,12003,0
+201706,TSL,Tamuin,San Luis Potosi,164,0
+201706,UPN,Uruapan,Michoacan,13733,1116
+201707,CEN,Ciudad Obregon,Sonora,28650,601
+201707,CLQ,Colima,Colima,10665,0
+201707,CME,Ciudad del Carmen,Campeche,31941,508
+201707,CPE,Campeche,Campeche,16123,184
+201707,CTM,Chetumal,Quintana Roo,26093,22
+201707,CVM,Ciudad Victoria,Tamaulipas,3914,178
+201707,GYM,Guaymas,Sonora,817,192
+201707,IZT,Ixtepec,Oaxaca,1536,0
+201707,LTO,Loreto,Baja California  Sur,2166,4251
+201707,MAM,Matamoros,Tamaulipas,8300,3
+201707,NLD,Nuevo Laredo,Tamaulipas,8325,15
+201707,NOG,Nogales,Sonora,124,2
+201707,PAZ,Poza Rica,Veracruz,2323,0
+201707,PBC,Puebla,Puebla,42361,5489
+201707,PXM,Puerto Escondido,Oaxaca,23091,234
+201707,TCN,Tehuacan,Puebla,329,0
+201707,TPQ,Tepic,Nayarit,12357,0
+201707,TSL,Tamuin,San Luis Potosi,136,0
+201707,UPN,Uruapan,Michoacan,13151,888
+201708,CEN,Ciudad Obregon,Sonora,27784,156
+201708,CLQ,Colima,Colima,10733,0
+201708,CME,Ciudad del Carmen,Campeche,32195,469
+201708,CPE,Campeche,Campeche,16407,118
+201708,CTM,Chetumal,Quintana Roo,24771,69
+201708,CVM,Ciudad Victoria,Tamaulipas,4839,140
+201708,GYM,Guaymas,Sonora,710,156
+201708,IZT,Ixtepec,Oaxaca,1648,0
+201708,LTO,Loreto,Baja California  Sur,1999,1877
+201708,MAM,Matamoros,Tamaulipas,7925,1
+201708,NLD,Nuevo Laredo,Tamaulipas,7383,5
+201708,NOG,Nogales,Sonora,146,18
+201708,PAZ,Poza Rica,Veracruz,1455,0
+201708,PBC,Puebla,Puebla,40512,4751
+201708,PXM,Puerto Escondido,Oaxaca,20708,277
+201708,TCN,Tehuacan,Puebla,290,0
+201708,TPQ,Tepic,Nayarit,11435,0
+201708,TSL,Tamuin,San Luis Potosi,133,0
+201708,UPN,Uruapan,Michoacan,11422,1084
+201709,CEN,Ciudad Obregon,Sonora,22080,531
+201709,CLQ,Colima,Colima,10026,0
+201709,CME,Ciudad del Carmen,Campeche,26942,409
+201709,CPE,Campeche,Campeche,12091,134
+201709,CTM,Chetumal,Quintana Roo,21825,33
+201709,CVM,Ciudad Victoria,Tamaulipas,4039,155
+201709,GYM,Guaymas,Sonora,763,140
+201709,IZT,Ixtepec,Oaxaca,2205,0
+201709,LTO,Loreto,Baja California  Sur,1303,1623
+201709,MAM,Matamoros,Tamaulipas,6653,2
+201709,NLD,Nuevo Laredo,Tamaulipas,5865,4
+201709,NOG,Nogales,Sonora,195,12
+201709,PAZ,Poza Rica,Veracruz,1455,0
+201709,PBC,Puebla,Puebla,38514,3796
+201709,PXM,Puerto Escondido,Oaxaca,14027,143
+201709,TCN,Tehuacan,Puebla,209,0
+201709,TPQ,Tepic,Nayarit,9494,0
+201709,TSL,Tamuin,San Luis Potosi,135,0
+201709,UPN,Uruapan,Michoacan,9095,786
+201710,CEN,Ciudad Obregon,Sonora,27714,815
+201710,CLQ,Colima,Colima,14041,0
+201710,CME,Ciudad del Carmen,Campeche,30665,462
+201710,CPE,Campeche,Campeche,14666,156
+201710,CTM,Chetumal,Quintana Roo,23859,1
+201710,CVM,Ciudad Victoria,Tamaulipas,6725,157
+201710,GYM,Guaymas,Sonora,745,327
+201710,IZT,Ixtepec,Oaxaca,3118,0
+201710,LTO,Loreto,Baja California  Sur,1970,4615
+201710,MAM,Matamoros,Tamaulipas,8468,3
+201710,NLD,Nuevo Laredo,Tamaulipas,7651,33
+201710,NOG,Nogales,Sonora,201,21
+201710,PAZ,Poza Rica,Veracruz,1843,0
+201710,PBC,Puebla,Puebla,39348,4193
+201710,PXM,Puerto Escondido,Oaxaca,17850,33
+201710,TCN,Tehuacan,Puebla,282,0
+201710,TPQ,Tepic,Nayarit,10107,0
+201710,TSL,Tamuin,San Luis Potosi,142,0
+201710,UPN,Uruapan,Michoacan,10064,893
+201711,CEN,Ciudad Obregon,Sonora,26486,660
+201711,CLQ,Colima,Colima,14436,0
+201711,CME,Ciudad del Carmen,Campeche,30242,495
+201711,CPE,Campeche,Campeche,10371,144
+201711,CTM,Chetumal,Quintana Roo,26240,3
+201711,CVM,Ciudad Victoria,Tamaulipas,5318,187
+201711,GYM,Guaymas,Sonora,828,310
+201711,IZT,Ixtepec,Oaxaca,3268,0
+201711,LTO,Loreto,Baja California  Sur,1729,6370
+201711,MAM,Matamoros,Tamaulipas,8630,0
+201711,NLD,Nuevo Laredo,Tamaulipas,4865,29
+201711,NOG,Nogales,Sonora,254,20
+201711,PAZ,Poza Rica,Veracruz,1895,0
+201711,PBC,Puebla,Puebla,46464,4244
+201711,PXM,Puerto Escondido,Oaxaca,21208,15
+201711,TCN,Tehuacan,Puebla,270,0
+201711,TPQ,Tepic,Nayarit,11072,0
+201711,TSL,Tamuin,San Luis Potosi,97,0
+201711,UPN,Uruapan,Michoacan,10768,1102
+201712,CEN,Ciudad Obregon,Sonora,27835,934
+201712,CLQ,Colima,Colima,15292,0
+201712,CME,Ciudad del Carmen,Campeche,27900,439
+201712,CPE,Campeche,Campeche,15191,126
+201712,CTM,Chetumal,Quintana Roo,28231,31
+201712,CVM,Ciudad Victoria,Tamaulipas,5304,217
+201712,GYM,Guaymas,Sonora,983,249
+201712,IZT,Ixtepec,Oaxaca,3013,0
+201712,LTO,Loreto,Baja California  Sur,1795,6250
+201712,MAM,Matamoros,Tamaulipas,5795,6
+201712,NLD,Nuevo Laredo,Tamaulipas,5372,64
+201712,NOG,Nogales,Sonora,181,39
+201712,PAZ,Poza Rica,Veracruz,1977,0
+201712,PBC,Puebla,Puebla,46701,4989
+201712,PXM,Puerto Escondido,Oaxaca,31157,6
+201712,TCN,Tehuacan,Puebla,182,0
+201712,TPQ,Tepic,Nayarit,12992,0
+201712,TSL,Tamuin,San Luis Potosi,172,0
+201712,UPN,Uruapan,Michoacan,14961,963
+201801,CEN,Ciudad Obregon,Sonora,24723,918
+201801,CLQ,Colima,Colima,15805,0
+201801,CME,Ciudad del Carmen,Campeche,29502,510
+201801,CPE,Campeche,Campeche,13106,117
+201801,CTM,Chetumal,Quintana Roo,27548,11
+201801,CVM,Ciudad Victoria,Tamaulipas,4990,132
+201801,GYM,Guaymas,Sonora,876,262
+201801,IZT,Ixtepec,Oaxaca,3049,0
+201801,LTO,Loreto,Baja California  Sur,1493,5168
+201801,MAM,Matamoros,Tamaulipas,4995,6
+201801,NLD,Nuevo Laredo,Tamaulipas,4614,28
+201801,NOG,Nogales,Sonora,120,35
+201801,PAZ,Poza Rica,Veracruz,1390,0
+201801,PBC,Puebla,Puebla,43627,4823
+201801,PXM,Puerto Escondido,Oaxaca,28508,5
+201801,TCN,Tehuacan,Puebla,185,0
+201801,TPQ,Tepic,Nayarit,13261,0
+201801,TSL,Tamuin,San Luis Potosi,60,0
+201801,UPN,Uruapan,Michoacan,13825,977
+201802,CEN,Ciudad Obregon,Sonora,22949,849
+201802,CLQ,Colima,Colima,11113,0
+201802,CME,Ciudad del Carmen,Campeche,26277,435
+201802,CPE,Campeche,Campeche,12511,139
+201802,CTM,Chetumal,Quintana Roo,23507,0
+201802,CVM,Ciudad Victoria,Tamaulipas,5470,105
+201802,GYM,Guaymas,Sonora,831,250
+201802,IZT,Ixtepec,Oaxaca,3258,0
+201802,LTO,Loreto,Baja California  Sur,1971,7752
+201802,MAM,Matamoros,Tamaulipas,4918,18
+201802,NLD,Nuevo Laredo,Tamaulipas,4321,26
+201802,NOG,Nogales,Sonora,205,23
+201802,PAZ,Poza Rica,Veracruz,2135,0
+201802,PBC,Puebla,Puebla,41956,4286
+201802,PXM,Puerto Escondido,Oaxaca,21962,9
+201802,TCN,Tehuacan,Puebla,268,0
+201802,TPQ,Tepic,Nayarit,12951,0
+201802,TSL,Tamuin,San Luis Potosi,92,4
+201802,UPN,Uruapan,Michoacan,12261,906
+201803,CEN,Ciudad Obregon,Sonora,28776,909
+201803,CLQ,Colima,Colima,14297,0
+201803,CME,Ciudad del Carmen,Campeche,30947,493
+201803,CPE,Campeche,Campeche,14964,137
+201803,CTM,Chetumal,Quintana Roo,28394,6
+201803,CVM,Ciudad Victoria,Tamaulipas,5600,140
+201803,GYM,Guaymas,Sonora,1023,361
+201803,IZT,Ixtepec,Oaxaca,3515,0
+201803,LTO,Loreto,Baja California  Sur,2385,9054
+201803,MAM,Matamoros,Tamaulipas,4813,0
+201803,NLD,Nuevo Laredo,Tamaulipas,5143,29
+201803,NOG,Nogales,Sonora,188,31
+201803,PAZ,Poza Rica,Veracruz,2329,0
+201803,PBC,Puebla,Puebla,49612,4818
+201803,PXM,Puerto Escondido,Oaxaca,26478,2
+201803,TCN,Tehuacan,Puebla,237,0
+201803,TPQ,Tepic,Nayarit,13439,0
+201803,TSL,Tamuin,San Luis Potosi,211,0
+201803,UPN,Uruapan,Michoacan,12598,1152
+201804,CEN,Ciudad Obregon,Sonora,27609,729
+201804,CLQ,Colima,Colima,13270,0
+201804,CME,Ciudad del Carmen,Campeche,28641,510
+201804,CPE,Campeche,Campeche,14399,222
+201804,CTM,Chetumal,Quintana Roo,25147,17
+201804,CVM,Ciudad Victoria,Tamaulipas,4418,131
+201804,GYM,Guaymas,Sonora,931,302
+201804,IZT,Ixtepec,Oaxaca,3388,0
+201804,LTO,Loreto,Baja California  Sur,2003,7472
+201804,MAM,Matamoros,Tamaulipas,4297,12
+201804,NLD,Nuevo Laredo,Tamaulipas,4747,46
+201804,NOG,Nogales,Sonora,154,36
+201804,PAZ,Poza Rica,Veracruz,2568,0
+201804,PBC,Puebla,Puebla,49522,4562
+201804,PXM,Puerto Escondido,Oaxaca,23591,23
+201804,TCN,Tehuacan,Puebla,308,0
+201804,TPQ,Tepic,Nayarit,12477,0
+201804,TSL,Tamuin,San Luis Potosi,106,0
+201804,UPN,Uruapan,Michoacan,12601,846
+201805,CEN,Ciudad Obregon,Sonora,27114,803
+201805,CLQ,Colima,Colima,13245,0
+201805,CME,Ciudad del Carmen,Campeche,29631,500
+201805,CPE,Campeche,Campeche,13004,55
+201805,CTM,Chetumal,Quintana Roo,25959,80
+201805,CVM,Ciudad Victoria,Tamaulipas,4751,120
+201805,GYM,Guaymas,Sonora,864,319
+201805,IZT,Ixtepec,Oaxaca,3102,0
+201805,LTO,Loreto,Baja California  Sur,1909,5453
+201805,MAM,Matamoros,Tamaulipas,5010,1
+201805,NLD,Nuevo Laredo,Tamaulipas,4794,22
+201805,NOG,Nogales,Sonora,153,12
+201805,PAZ,Poza Rica,Veracruz,2536,0
+201805,PBC,Puebla,Puebla,50707,4663
+201805,PXM,Puerto Escondido,Oaxaca,21042,0
+201805,TCN,Tehuacan,Puebla,181,0
+201805,TPQ,Tepic,Nayarit,13092,0
+201805,TSL,Tamuin,San Luis Potosi,100,0
+201805,UPN,Uruapan,Michoacan,11848,1177
+201806,CEN,Ciudad Obregon,Sonora,26152,713
+201806,CLQ,Colima,Colima,12745,0
+201806,CME,Ciudad del Carmen,Campeche,27316,568
+201806,CPE,Campeche,Campeche,13087,64
+201806,CTM,Chetumal,Quintana Roo,24166,3
+201806,CVM,Ciudad Victoria,Tamaulipas,4805,136
+201806,GYM,Guaymas,Sonora,628,327
+201806,IZT,Ixtepec,Oaxaca,2606,0
+201806,LTO,Loreto,Baja California  Sur,1999,4340
+201806,MAM,Matamoros,Tamaulipas,5766,0
+201806,NLD,Nuevo Laredo,Tamaulipas,4886,14
+201806,NOG,Nogales,Sonora,152,9
+201806,PAZ,Poza Rica,Veracruz,2444,0
+201806,PBC,Puebla,Puebla,47158,4899
+201806,PXM,Puerto Escondido,Oaxaca,22187,5
+201806,TCN,Tehuacan,Puebla,175,0
+201806,TPQ,Tepic,Nayarit,13908,0
+201806,TSL,Tamuin,San Luis Potosi,130,0
+201806,UPN,Uruapan,Michoacan,11092,1014
+201807,CEN,Ciudad Obregon,Sonora,30199,817
+201807,CLQ,Colima,Colima,11655,0
+201807,CME,Ciudad del Carmen,Campeche,29475,502
+201807,CPE,Campeche,Campeche,13679,74
+201807,CTM,Chetumal,Quintana Roo,29432,0
+201807,CVM,Ciudad Victoria,Tamaulipas,3898,162
+201807,GYM,Guaymas,Sonora,982,187
+201807,IZT,Ixtepec,Oaxaca,2783,0
+201807,LTO,Loreto,Baja California  Sur,2767,4520
+201807,MAM,Matamoros,Tamaulipas,7037,0
+201807,NLD,Nuevo Laredo,Tamaulipas,6402,16
+201807,NOG,Nogales,Sonora,110,10
+201807,PAZ,Poza Rica,Veracruz,1897,0
+201807,PBC,Puebla,Puebla,56179,5361
+201807,PXM,Puerto Escondido,Oaxaca,28935,4
+201807,TCN,Tehuacan,Puebla,271,0
+201807,TPQ,Tepic,Nayarit,13148,0
+201807,TSL,Tamuin,San Luis Potosi,60,0
+201807,UPN,Uruapan,Michoacan,13680,1064
+201808,CEN,Ciudad Obregon,Sonora,28604,724
+201808,CLQ,Colima,Colima,11900,0
+201808,CME,Ciudad del Carmen,Campeche,29969,589
+201808,CPE,Campeche,Campeche,12924,112
+201808,CTM,Chetumal,Quintana Roo,28696,2
+201808,CVM,Ciudad Victoria,Tamaulipas,5067,127
+201808,GYM,Guaymas,Sonora,876,82
+201808,IZT,Ixtepec,Oaxaca,3361,0
+201808,LTO,Loreto,Baja California  Sur,2114,2509
+201808,MAM,Matamoros,Tamaulipas,5763,3
+201808,NLD,Nuevo Laredo,Tamaulipas,6140,27
+201808,NOG,Nogales,Sonora,136,15
+201808,PAZ,Poza Rica,Veracruz,2315,0
+201808,PBC,Puebla,Puebla,54852,5244
+201808,PXM,Puerto Escondido,Oaxaca,26965,6
+201808,TCN,Tehuacan,Puebla,243,0
+201808,TPQ,Tepic,Nayarit,12796,0
+201808,TSL,Tamuin,San Luis Potosi,98,0
+201808,UPN,Uruapan,Michoacan,12235,1044
+201809,CEN,Ciudad Obregon,Sonora,24635,702
+201809,CLQ,Colima,Colima,11276,0
+201809,CME,Ciudad del Carmen,Campeche,27080,557
+201809,CPE,Campeche,Campeche,12617,53
+201809,CTM,Chetumal,Quintana Roo,24104,0
+201809,CVM,Ciudad Victoria,Tamaulipas,4671,163
+201809,GYM,Guaymas,Sonora,674,189
+201809,IZT,Ixtepec,Oaxaca,3731,0
+201809,LTO,Loreto,Baja California  Sur,1676,2020
+201809,MAM,Matamoros,Tamaulipas,4772,0
+201809,NLD,Nuevo Laredo,Tamaulipas,4917,48
+201809,NOG,Nogales,Sonora,167,23
+201809,PAZ,Poza Rica,Veracruz,2074,0
+201809,PBC,Puebla,Puebla,57421,5298
+201809,PXM,Puerto Escondido,Oaxaca,18748,0
+201809,TCN,Tehuacan,Puebla,281,0
+201809,TPQ,Tepic,Nayarit,12297,0
+201809,TSL,Tamuin,San Luis Potosi,144,0
+201809,UPN,Uruapan,Michoacan,10722,796
+201810,CEN,Ciudad Obregon,Sonora,29766,754
+201810,CLQ,Colima,Colima,11579,0
+201810,CME,Ciudad del Carmen,Campeche,32858,580
+201810,CPE,Campeche,Campeche,14275,106
+201810,CTM,Chetumal,Quintana Roo,27488,0
+201810,CVM,Ciudad Victoria,Tamaulipas,5400,131
+201810,GYM,Guaymas,Sonora,768,211
+201810,IZT,Ixtepec,Oaxaca,3715,0
+201810,LTO,Loreto,Baja California  Sur,2031,3802
+201810,MAM,Matamoros,Tamaulipas,5133,0
+201810,NLD,Nuevo Laredo,Tamaulipas,4968,20
+201810,NOG,Nogales,Sonora,151,21
+201810,PAZ,Poza Rica,Veracruz,2157,0
+201810,PBC,Puebla,Puebla,59915,5020
+201810,PXM,Puerto Escondido,Oaxaca,21348,0
+201810,TCN,Tehuacan,Puebla,221,0
+201810,TPQ,Tepic,Nayarit,13018,0
+201810,TSL,Tamuin,San Luis Potosi,121,0
+201810,UPN,Uruapan,Michoacan,11181,550
+201811,CEN,Ciudad Obregon,Sonora,28809,753
+201811,CLQ,Colima,Colima,14664,0
+201811,CME,Ciudad del Carmen,Campeche,32204,562
+201811,CPE,Campeche,Campeche,15665,78
+201811,CTM,Chetumal,Quintana Roo,29266,5
+201811,CVM,Ciudad Victoria,Tamaulipas,4935,67
+201811,GYM,Guaymas,Sonora,752,262
+201811,IZT,Ixtepec,Oaxaca,3755,0
+201811,LTO,Loreto,Baja California  Sur,2477,6177
+201811,MAM,Matamoros,Tamaulipas,5227,203
+201811,NLD,Nuevo Laredo,Tamaulipas,5032,39
+201811,NOG,Nogales,Sonora,169,29
+201811,PAZ,Poza Rica,Veracruz,2042,0
+201811,PBC,Puebla,Puebla,54605,5535
+201811,PXM,Puerto Escondido,Oaxaca,27620,13
+201811,TCN,Tehuacan,Puebla,272,0
+201811,TPQ,Tepic,Nayarit,15539,0
+201811,TSL,Tamuin,San Luis Potosi,154,0
+201811,UPN,Uruapan,Michoacan,11691,978
+201812,CEN,Ciudad Obregon,Sonora,29449,860
+201812,CLQ,Colima,Colima,14417,0
+201812,CME,Ciudad del Carmen,Campeche,32061,896
+201812,CPE,Campeche,Campeche,13769,28
+201812,CTM,Chetumal,Quintana Roo,27950,4
+201812,CVM,Ciudad Victoria,Tamaulipas,4079,198
+201812,GYM,Guaymas,Sonora,817,287
+201812,IZT,Ixtepec,Oaxaca,3572,0
+201812,LTO,Loreto,Baja California  Sur,2004,5983
+201812,MAM,Matamoros,Tamaulipas,5725,118
+201812,NLD,Nuevo Laredo,Tamaulipas,7252,45
+201812,NOG,Nogales,Sonora,209,33
+201812,PAZ,Poza Rica,Veracruz,2003,0
+201812,PBC,Puebla,Puebla,61311,4209
+201812,PXM,Puerto Escondido,Oaxaca,35022,5
+201812,TCN,Tehuacan,Puebla,202,0
+201812,TPQ,Tepic,Nayarit,17257,0
+201812,TSL,Tamuin,San Luis Potosi,58,0
+201812,UPN,Uruapan,Michoacan,14885,922
+201901,CEN,Ciudad Obregon,Sonora,27123,1001
+201901,CLQ,Colima,Colima,14318,0
+201901,CME,Ciudad del Carmen,Campeche,29869,717
+201901,CPE,Campeche,Campeche,12666,90
+201901,CTM,Chetumal,Quintana Roo,25131,10
+201901,CVM,Ciudad Victoria,Tamaulipas,3966,139
+201901,GYM,Guaymas,Sonora,734,331
+201901,IZT,Ixtepec,Oaxaca,2994,0
+201901,LTO,Loreto,Baja California  Sur,1874,5699
+201901,MAM,Matamoros,Tamaulipas,6023,184
+201901,NLD,Nuevo Laredo,Tamaulipas,6123,19
+201901,NOG,Nogales,Sonora,176,40
+201901,PAZ,Poza Rica,Veracruz,2162,0
+201901,PBC,Puebla,Puebla,53604,3165
+201901,PXM,Puerto Escondido,Oaxaca,33876,12
+201901,TCN,Tehuacan,Puebla,220,0
+201901,TPQ,Tepic,Nayarit,15885,0
+201901,TSL,Tamuin,San Luis Potosi,131,0
+201901,UPN,Uruapan,Michoacan,12881,1109
+201902,CEN,Ciudad Obregon,Sonora,25193,998
+201902,CLQ,Colima,Colima,14209,0
+201902,CME,Ciudad del Carmen,Campeche,26842,572
+201902,CPE,Campeche,Campeche,10793,112
+201902,CTM,Chetumal,Quintana Roo,26136,17
+201902,CVM,Ciudad Victoria,Tamaulipas,3834,107
+201902,GYM,Guaymas,Sonora,695,201
+201902,IZT,Ixtepec,Oaxaca,2777,0
+201902,LTO,Loreto,Baja California  Sur,2084,7592
+201902,MAM,Matamoros,Tamaulipas,5273,268
+201902,NLD,Nuevo Laredo,Tamaulipas,5461,20
+201902,NOG,Nogales,Sonora,150,27
+201902,PAZ,Poza Rica,Veracruz,1791,0
+201902,PBC,Puebla,Puebla,48228,2886
+201902,PXM,Puerto Escondido,Oaxaca,27243,14
+201902,TCN,Tehuacan,Puebla,265,0
+201902,TPQ,Tepic,Nayarit,14703,0
+201902,TSL,Tamuin,San Luis Potosi,152,0
+201902,UPN,Uruapan,Michoacan,10693,692
+201903,CEN,Ciudad Obregon,Sonora,29987,745
+201903,CLQ,Colima,Colima,16989,0
+201903,CME,Ciudad del Carmen,Campeche,33703,620
+201903,CPE,Campeche,Campeche,13629,108
+201903,CTM,Chetumal,Quintana Roo,30799,12
+201903,CVM,Ciudad Victoria,Tamaulipas,4288,140
+201903,GYM,Guaymas,Sonora,738,320
+201903,IZT,Ixtepec,Oaxaca,3284,0
+201903,LTO,Loreto,Baja California  Sur,4786,10476
+201903,MAM,Matamoros,Tamaulipas,5562,49
+201903,NLD,Nuevo Laredo,Tamaulipas,5359,38
+201903,NOG,Nogales,Sonora,195,46
+201903,PAZ,Poza Rica,Veracruz,2297,0
+201903,PBC,Puebla,Puebla,56635,2933
+201903,PXM,Puerto Escondido,Oaxaca,28317,7
+201903,TCN,Tehuacan,Puebla,229,0
+201903,TPQ,Tepic,Nayarit,18356,0
+201903,TSL,Tamuin,San Luis Potosi,199,0
+201903,UPN,Uruapan,Michoacan,12658,727
+201904,CEN,Ciudad Obregon,Sonora,28277,701
+201904,CLQ,Colima,Colima,16457,0
+201904,CME,Ciudad del Carmen,Campeche,31732,915
+201904,CPE,Campeche,Campeche,12524,160
+201904,CTM,Chetumal,Quintana Roo,32420,66
+201904,CVM,Ciudad Victoria,Tamaulipas,3489,151
+201904,GYM,Guaymas,Sonora,951,269
+201904,IZT,Ixtepec,Oaxaca,3232,0
+201904,LTO,Loreto,Baja California  Sur,5465,8208
+201904,MAM,Matamoros,Tamaulipas,5260,18
+201904,NLD,Nuevo Laredo,Tamaulipas,5101,40
+201904,NOG,Nogales,Sonora,192,32
+201904,PAZ,Poza Rica,Veracruz,2256,0
+201904,PBC,Puebla,Puebla,60384,2884
+201904,PXM,Puerto Escondido,Oaxaca,35665,6
+201904,TCN,Tehuacan,Puebla,249,0
+201904,TPQ,Tepic,Nayarit,17714,0
+201904,TSL,Tamuin,San Luis Potosi,198,0
+201904,UPN,Uruapan,Michoacan,13506,794
+201905,CEN,Ciudad Obregon,Sonora,26788,648
+201905,CLQ,Colima,Colima,17402,0
+201905,CME,Ciudad del Carmen,Campeche,33889,729
+201905,CPE,Campeche,Campeche,13278,81
+201905,CTM,Chetumal,Quintana Roo,38193,13
+201905,CVM,Ciudad Victoria,Tamaulipas,4091,88
+201905,GYM,Guaymas,Sonora,785,309
+201905,IZT,Ixtepec,Oaxaca,2943,0
+201905,LTO,Loreto,Baja California  Sur,4356,5592
+201905,MAM,Matamoros,Tamaulipas,5258,3
+201905,NLD,Nuevo Laredo,Tamaulipas,5286,0
+201905,NOG,Nogales,Sonora,215,22
+201905,PAZ,Poza Rica,Veracruz,2519,0
+201905,PBC,Puebla,Puebla,65272,3055
+201905,PXM,Puerto Escondido,Oaxaca,33745,4
+201905,TCN,Tehuacan,Puebla,304,0
+201905,TPQ,Tepic,Nayarit,18872,0
+201905,TSL,Tamuin,San Luis Potosi,131,0
+201905,UPN,Uruapan,Michoacan,14139,1206
